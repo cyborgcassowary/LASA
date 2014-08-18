@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+
+<head>
+<title> create/set/get Attribute example</title>
+
+<script type="text/javascript">
+
+function doAttrib() {
+  var node = document.getElementById("div1");
+  var a = document.createAttribute("class");
+  a.nodeValue = "newVal";
+  node.setAttributeNode(a);
+  a.appendChild(node);
+  //alert(node.getAttribute("my_attrib")); // "newVal"
+}
+
+// alternative form not actually using createAttribute
+//function doAttrib() {
+//  var node = document.getElementById("div1");
+//  node.setAttribute("my_attrib", "newVal");
+//  alert(node.getAttribute("my_attrib")); // "newVal"
+//}
+
+</script>
+</head>
+
+<body onload="doAttrib();">
+<div id="div1">
+<p>Some content here</p>
+</div>
+</body>
+</html>

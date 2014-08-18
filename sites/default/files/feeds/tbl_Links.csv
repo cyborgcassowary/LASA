@@ -1,0 +1,137 @@
+ID,Location,Location_Type
+11,"Treatment Plant,Storage Room 211,,",Drawer
+12,"Treatment Plant,Storage Room 211,,",Drawer
+13,"Treatment Plant,Storage Room 211,,",Drawer
+14,"Treatment Plant,Storage Room 211,1012",Box
+15,"Treatment Plant,Storage Room 211,,",Drawer
+16,"Treatment Plant,Storage Room 211,,",Drawer
+17,"Treatment Plant,Storage Room 211,1013",Box
+18,"Treatment Plant,Storage Room 211,1014",Box
+19,"Treatment Plant,Storage Room 211,,",Drawer
+20,"Treatment Plant,Storage Room 211,,",Drawer
+21,"Treatment Plant,Storage Room 211,1015",Box
+22,"Treatment Plant,Storage Room 211,,",Drawer
+23,"Treatment Plant,Storage Room 211,1016",Box
+24,"Treatment Plant,Storage Room 211,,",Drawer
+25,"Treatment Plant,Storage Room 211,1017",Box
+26,"Treatment Plant,Storage Room 211,1018",Box
+27,"Treatment Plant,Storage Room 211,1019",Box
+28,"Treatment Plant,Storage Room 211,1020",Box
+29,"Admin Building,Vault,General,1",Drawer
+30,"Admin Building,Vault,General,2",Drawer
+31,"Admin Building,Vault,General,3",Drawer
+32,"Admin Building,Vault,General,4",Drawer
+33,"Admin Building,STORAGE ROOM 211,1021",Box
+34,"Treatment Plant,Storage Room 211,1022",Box
+35,"Treatment Plant,Storage Room 211,1021",Box
+36,"Admin Building,Vault,General,2",Drawer
+37,"Admin Building,Vault,Projects,1",Drawer
+38,"Admin Building,Vault,Projects,2",Drawer
+39,"Admin Building,Vault,Projects,3",Drawer
+40,"Admin Building,Vault,Projects,4",Drawer
+41,"Admin Building,Vault,Completed & Closed,1",Drawer
+42,"Admin Building,Vault,Completed & Closed,2",Drawer
+43,"Admin Building,Vault,Completed & Closed,3",Drawer
+44,"Admin Building,Vault,Completed & Closed,4",Drawer
+45,"Admin Building,Vault,Completed & Closed,5",Drawer
+46,"Admin Building,Vault,Completed & Closed,6",Drawer
+47,"Admin Building,Vault,Completed & Closed,7",Drawer
+48,"Admin Building,Vault,Completed & Closed,8",Drawer
+49,"Admin Building,Vault,Completed & Closed,9",Drawer
+50,"Admin Building,Vault,Completed & Closed,10",Drawer
+51,"Treatment Plant,Storage Room 211,1000",Box
+52,"Treatment Plant,Storage Room 211,1001",Box
+53,"Treatment Plant,Storage Room 211,1002",Box
+54,"Treatment Plant,Storage Room 211,1003",Box
+55,"Treatment Plant,,1004",Box
+56,"Treatment Plant,Storage Room 211,1004",Box
+57,"Treatment Plant,Storage Room 211,1005",Box
+58,"Treatment Plant,Storage Room 211,1006",Box
+59,"Treatment Plant,Storage Room 211,1007",Box
+60,"Treatment Plant,Storage Room 211,1008",Box
+61,"Treatment Plant,Storage Room 211,1009",Box
+62,"Treatment Plant,Storage Room 211,1010",Box
+63,"Treatment Plant,Storage Room 211,1011",Box
+64,"Admin Building,Vault,Completed & Closed,10",Drawer
+65,"Treatment Plant,Storage Room 211,1023",Box
+66,"Treatment Plant,Storage Room 211,1024",Box
+67,"Admin Building,Vault,Completed W/ Outstanding Doc. ,9",Drawer
+68,"Admin Building,Vault,Completed W/ Outstanding Doc. ,10",Drawer
+69,"Admin Building,General Office Area 022,,1",Drawer
+70,"Admin Building,General Office Area 022,Escrow,1",Drawer
+71,"Admin Building,General Office Area 022,Escrow,2",Drawer
+72,"Admin Building,General Office Area 022,Escrow,3",Drawer
+73,"Admin Building,General Office Area 022,Escrow,4",Drawer
+74,"Admin Building,General Office Area 022,Escrow,5",Drawer
+75,"Admin Building,General Office Area 022,Escrow,6",Drawer
+76,"Admin Building,General Office Area 022,Escrow,7",Drawer
+77,"Admin Building,General Office Area 022,Escrow,8",Drawer
+78,"Admin Building,General Office Area 022,Escrow,9",Drawer
+79,"Admin Building,General Office Area 022,Capital Projects ,1",Drawer
+80,"Admin Building,General Office Area 022,Capital Projects ,2",Drawer
+81,"Admin Building,General Office Area 022,Telephone/Electronic Paid Inv.,3",Drawer
+82,"Admin Building,Melissa Desk Area,1",Box
+83,"Admin Building,Melissa Desk Area,2",Box
+84,"Admin Building,Melissa Desk Area,3",Box
+85,"Treatment Plant,Storage Room 211,1025",Box
+86,"Treatment Plant,Storage Room 211,1026",Box
+87,"Treatment Plant,Storage Room 211,1027",Box
+88,"Treatment Plant,Storage Room 211,1028",Box
+89,"Treatment Plant,Storage Room 211,1029",Box
+90,"Treatment Plant,Storage Room 211,1030",Box
+91,"Treatment Plant,Storage Room 211,1031",Box
+92,"Admin Building,Mike Kyles Office,,1",Drawer
+93,"Admin Building,Mike Kyles Office,,2",Drawer
+94,"Admin Building,Mike Kyles Office,,3",Drawer
+95,"Admin Building,Library,A,1",Drawer
+96,"Admin Building,Library,A,2",Drawer
+97,"Admin Building,Library,B,1",Drawer
+98,"Admin Building,Library,B,2",Drawer
+99,"Admin Building,Library,B,3",Drawer
+100,"Admin Building,Library,B,4",Drawer
+101,"Admin Building,Library,B,5",Drawer
+102,"Admin Building,Library,B,6",Drawer
+103,"Admin Building,Library,B,6",Drawer
+104,"Admin Building,Library,C,2",Drawer
+105,"Admin Building,Library,C,3",Drawer
+106,"Admin Building,Library,C,4",Drawer
+107,"Admin Building,Library,C,6",Drawer
+108,"Admin Building,Library,D,2",Drawer
+109,"Admin Building,Library,D,5",Drawer
+110,"Admin Building,Library,E,1",Drawer
+111,"Admin Building,Library,E,2",Drawer
+112,"Admin Building,Library,E,3",Drawer
+113,"Admin Building,Library,F,1",Drawer
+114,"Admin Building,Library,F,2",Drawer
+115,"Admin Building,Library,F,3",Drawer
+116,"Admin Building,Library,F,4",Drawer
+117,"Admin Building,Library,G,2",Drawer
+118,"Admin Building,Library,G,3",Drawer
+119,"Admin Building,Library,G,3",Drawer
+120,"Admin Building,Library,G,4",Drawer
+121,"Admin Building,Library,H,1",Drawer
+122,"Admin Building,Library,H,2",Drawer
+123,"Admin Building,Library,H,3",Drawer
+124,"Admin Building,Library,H,4",Drawer
+125,"Admin Building,Library,H,5",Drawer
+126,"Admin Building,Library,I,2",Drawer
+127,"Admin Building,Library,I,3",Drawer
+128,"Admin Building,Library,I,6",Drawer
+130,"Admin Building,Library,Case-1,Shelf-1",BookCase
+131,"Admin Building,Vault,Projects,1",Drawer
+132,"Admin Building,Vault,ROW,Misc",Drawer
+133,"Admin Building,Library,E,4",Drawer
+134,"Admin Building,Library,E,5",Drawer
+135,"Maintenance Building,Loft,Payroll 2007",Box
+136,"Treatment Plant,Storage Room 211,1032",Box
+137,"Treatment Plant,Storage Room 211,1033",Box
+138,"Treatment Plant,Storage Room 211,1034",Box
+139,"Treatment Plant,Storage Room 211,1035",Box
+140,"Treatment Plant,Storage Room 211,1036",Box
+141,"Treatment Plant,Storage Room 211,1037",Box
+142,"Treatment Plant,Storage Room 211,1038",Box
+143,"Admin Building,Library,C,5",Drawer
+144,"Admin Building,Library,E,6",Drawer
+145,"Admin Building,Library,F,5",Drawer
+146,"Admin Building,Library,F,6",Drawer
+147,"Admin Building,Admin Building,Lunch Room,General,Misc",Drawer

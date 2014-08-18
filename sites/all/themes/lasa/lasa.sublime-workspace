@@ -1,0 +1,492 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font-",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"fil",
+				"FileDiffs: Menu"
+			],
+			[
+				"filediff",
+				"FileDiffs: Menu"
+			],
+			[
+				"filedi",
+				"FileDiffs: Menu"
+			],
+			[
+				"Wordpress",
+				"WordPress: Switch Database"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/CyborgCassowary/Sites/lasa/sites/all/themes/lasa/lasa.sublime-project",
+		"/Users/CyborgCassowary/Sites/lasa/sites/all/themes/lasa/js/courses.js",
+		"/Users/CyborgCassowary/Sites/lasa/sites/all/themes/lasa/js/bootstrap.js",
+		"/Users/CyborgCassowary/Sites/lasa/sites/all/themes/lasa/templates/html.tpl.php",
+		"/Users/CyborgCassowary/Sites/lasa/sites/all/themes/lasa/templates/page.tpl.php",
+		"/Users/CyborgCassowary/Sites/lasa/sites/all/themes/lasa/lasa.info",
+		"/Users/CyborgCassowary/Sites/lasa/sites/all/themes/lasa/css/styles.css",
+		"/Users/CyborgCassowary/Sites/lasa/sites/all/themes/lasa/css/test.js",
+		"/Users/CyborgCassowary/Sites/lasa/sites/all/themes/lasa/templates/node.tpl.php",
+		"/Users/CyborgCassowary/Downloads/timber-library/timber-starter-theme/footer.php",
+		"/Users/CyborgCassowary/Downloads/timber-library/timber-starter-theme/views/page.twig",
+		"/Users/CyborgCassowary/Downloads/timber-library/timber-starter-theme/views/single.twig",
+		"/Users/CyborgCassowary/Downloads/timber-library/timber-starter-theme/views/base.twig",
+		"/Users/CyborgCassowary/Downloads/timber-library/timber-starter-theme/index.php",
+		"/Users/CyborgCassowary/Downloads/timber-library/timber-starter-theme/views/tease.twig",
+		"/Users/CyborgCassowary/Downloads/timber-library/timber-starter-theme/views/page-plugin.twig",
+		"/Users/CyborgCassowary/Downloads/timber-library/timber-starter-theme/views/html-header.twig",
+		"/Users/CyborgCassowary/Downloads/timber-library/timber-starter-theme/functions.php",
+		"/Users/CyborgCassowary/Downloads/timber-library/timber-starter-theme/views/tease-post.twig",
+		"/Users/CyborgCassowary/Downloads/timber-library/timber-starter-theme/views/index.twig",
+		"/Volumes/USB DISK/lasa_sitecats/Query Statements for LASA project.txt",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/template_default/images/scr_template_default.jpg",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm/templates/tpl_products_next_previous.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/template_default/common/html_header.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/template_default/common/tpl_footer.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm/jscript/jscript_bootstrapmin.js",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/languages/english/pbm/button_names.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/languages/pbm/english.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/modules/sideboxes/pbm/more_information.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/template_default/sideboxes/tpl_whats_new.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm/sideboxes/tpl_search_header.php",
+		"/Users/CyborgCassowary/Desktop/index.html",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/modules/pbm/additional_images.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm/templates/tpl_modules_main_product_image.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/languages/english/pbm/header.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm/templates/tpl_modules_products_new_listing.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm/templates/tpl_products_all_default.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm/templates/tpl_modules_products_all_listing.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/languages/english/index.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm/templates/tpl_modules_whats_new.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/template_default/common/tpl_columnar_display.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm/common/tpl_tabular_display.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm/templates/tpl_modules_category_icon_display.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm/common/tpl_box_default_left.php",
+		"/Users/CyborgCassowary/Sites/pbmstorefiles/includes/templates/pbm/templates/tpl_modules_categories_tabs.php",
+		"/Users/CyborgCassowary/Sites/pbmstorefiles/includes/templates/pbm/css/stylesheet.css",
+		"/Users/CyborgCassowary/Sites/pbmstorefiles/includes/templates/pbm/common/tpl_columnar_display.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm/sideboxes/tpl_categories.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm/common/html_header.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm/common/tpl_header.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm/common/tpl_list_box_content.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm/common/tpl_main_page.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/sublime/pbm.sublime-project",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/custom/common/tpl_main_page.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm/jscript/jscript_moyer.js",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm/common/tpl_footer.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/modules/sideboxes/pbm/search_header.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm/jscript/jscript_jquery.js",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/template_default/templates/tpl_modules_main_product_image.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/custom/common/tpl_header.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/custom/common/html_header.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/custom/common/tpl_footer.php",
+		"/Users/CyborgCassowary/Sites/pbm_store/adminpower/includes/configure.php",
+		"/Users/CyborgCassowary/Sites/poweredbymoyer/bootstrap/html/brands.php",
+		"/Users/CyborgCassowary/Sites/poweredbymoyer/html/brands.php",
+		"/Users/CyborgCassowary/Sites/poweredbymoyer/bootstrap/index.php",
+		"/Users/CyborgCassowary/Sites/poweredbymoyer/bootstrap/css/bootstrap.min.css",
+		"/Users/CyborgCassowary/Sites/poweredbymoyer/bootstrap/js/moyer.js",
+		"/Users/CyborgCassowary/Sites/poweredbymoyer/bootstrap/js/bootstrap.min.js",
+		"/Users/CyborgCassowary/Sites/poweredbymoyer/bootstrap/html/service.php",
+		"/Users/CyborgCassowary/Sites/poweredbymoyer/bootstrap/html/recycling.php",
+		"/Users/CyborgCassowary/Sites/poweredbymoyer/bootstrap/html/parts.php",
+		"/Users/CyborgCassowary/Sites/poweredbymoyer/bootstrap/html/newsletter.php",
+		"/Users/CyborgCassowary/Sites/poweredbymoyer/bootstrap/js/jquery.js",
+		"/Users/CyborgCassowary/Sites/poweredbymoyer/bootstrap/css/moyer.css",
+		"/Users/CyborgCassowary/Sites/poweredbymoyer/bootstrap/html/history.php",
+		"/Users/CyborgCassowary/Sites/poweredbymoyer/bootstrap/html/financing.php",
+		"/Users/CyborgCassowary/Sites/poweredbymoyer/bootstrap/html/contact.php",
+		"/Users/CyborgCassowary/Sites/poweredbymoyer/bootstrap/html/brands_bob_cat.php",
+		"/Users/CyborgCassowary/Sites/poweredbymoyer/bootstrap/html/brands_dewalt.php",
+		"/Users/CyborgCassowary/Sites/poweredbymoyer/bootstrap/html/brands_redmax.php",
+		"/Users/CyborgCassowary/Sites/poweredbymoyer/bootstrap/html/brands_porter_cable.php",
+		"/Users/CyborgCassowary/Sites/poweredbymoyer/bootstrap/html/brands_honda.php",
+		"/Users/CyborgCassowary/Sites/poweredbymoyer/bootstrap/html/brands_mantis.php",
+		"/Users/CyborgCassowary/Sites/poweredbymoyer/bootstrap/html/brands_husqvarna.php",
+		"/Users/CyborgCassowary/Sites/poweredbymoyer/bootstrap/html/brands_jenny.php",
+		"/Users/CyborgCassowary/Sites/poweredbymoyer/sublime/poweredbymoyer.sublime-project",
+		"/Users/CyborgCassowary/Sites/ghost_one/sublime/ghost_one.sublime-project",
+		"/Users/CyborgCassowary/Sites/node/example.js",
+		"/Users/CyborgCassowary/Sites/ghost_one/index.php",
+		"/Users/CyborgCassowary/Sites/ghost_one/css/ghost_one.css",
+		"/Users/CyborgCassowary/Sites/ghost_one/html/about.php",
+		"/Users/CyborgCassowary/Sites/ghost_one/js/docs.min.js",
+		"/Users/CyborgCassowary/Sites/ghost_one/js/ghostinthemachine.js",
+		"/Users/CyborgCassowary/Sites/ghost_one/js/ghostone.js",
+		"/Users/CyborgCassowary/Sites/ghost_one/js/bootstrap.min.js",
+		"/Users/CyborgCassowary/Sites/ghost_one/css/bootstrap.min.css",
+		"/Users/CyborgCassowary/Sites/ghost_one/index1.php",
+		"/Users/CyborgCassowary/Sites/ghost_one/aces/deathray.html",
+		"/Users/CyborgCassowary/Sites/ghost_one/aces/parent_child_controllers.html",
+		"/Users/CyborgCassowary/Sites/ghost_one/aces/controllernesting.html",
+		"/Users/CyborgCassowary/Sites/ghost_one/aces/titlecasefilter.html",
+		"/Users/CyborgCassowary/Sites/ghost_one/aces/errorsandwarnings.html",
+		"/Users/CyborgCassowary/Sites/ghost_one/aces/amail/index.html",
+		"/Users/CyborgCassowary/Sites/ghost_one/aces/amail/list.html",
+		"/Users/CyborgCassowary/Sites/ghost_one/aces/amail/detail.html",
+		"/Users/CyborgCassowary/Sites/ghost_one/aces/amail/controllers.js",
+		"/Users/CyborgCassowary/Sites/ghost_one/js/ghostinthemachine.php",
+		"/Users/CyborgCassowary/Sites/siwi/application/config/config.php",
+		"/Users/CyborgCassowary/Sites/siwi/application/config/database.php",
+		"/Users/CyborgCassowary/Sites/codeigniter_2/jillwillkilljack/config/database.php",
+		"/Users/CyborgCassowary/Sites/ryanhettler/pages/portfolio.php",
+		"/Users/CyborgCassowary/Sites/siwi/index.html",
+		"/Users/CyborgCassowary/Sites/siwi/css/siwi.css",
+		"/Users/CyborgCassowary/Sites/index.html",
+		"/Users/CyborgCassowary/Sites/shitiwalkedinto/wp-content/themes/another_shitty_theme/js/slides.js",
+		"/Users/CyborgCassowary/Sites/shitiwalkedinto/wp-content/themes/another_shitty_theme/js/jquery.js",
+		"/Users/CyborgCassowary/Sites/shitiwalkedinto/wp-content/plugins/portfolio-slideshow/inc/shortcode.php",
+		"/Users/CyborgCassowary/Sites/shitiwalkedinto/wp-content/themes/shitiwalkedinto/bootstrap/css/bootstrap.css",
+		"/Users/CyborgCassowary/Sites/shitiwalkedinto/wp-content/themes/shitiwalkedinto/single.php",
+		"/Users/CyborgCassowary/Sites/shitiwalkedinto/wp-content/themes/shitiwalkedinto/page.php",
+		"/Users/CyborgCassowary/Sites/shitiwalkedinto/wp-content/themes/shitiwalkedinto/js/shit.js",
+		"/Users/CyborgCassowary/Sites/shitiwalkedinto/wp-content/themes/shitiwalkedinto/header.php",
+		"/Users/CyborgCassowary/Sites/shitiwalkedinto/wp-content/themes/shitiwalkedinto/footer.php",
+		"/Users/CyborgCassowary/Sites/shitiwalkedinto/wp-content/themes/shitiwalkedinto/functions.php",
+		"/Users/CyborgCassowary/Sites/shitiwalkedinto/wp-config.php",
+		"/Users/CyborgCassowary/Sites/shitiwalkedinto/wp-content/themes/shitiwalkedinto/style.css",
+		"/Users/CyborgCassowary/Sites/shitiwalkedinto/const/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm",
+			"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/template_default",
+			"/Users/CyborgCassowary/Sites/pbm_store/includes",
+			"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm",
+			"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/template_default",
+			"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/template_default/templates",
+			"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm",
+			"/Users/CyborgCassowary/Sites/pbm_store/includes/languages/english/pbm",
+			"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm",
+			"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/template_default",
+			"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm",
+			"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/template_default",
+			"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm",
+			"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/template_default",
+			"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/template_default/templates",
+			"/Users/CyborgCassowary/Sites/pbm_store/includes/templates",
+			"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/template_default/templates",
+			"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/template_default",
+			"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm",
+			"/Users/CyborgCassowary/Sites/pbm_store/includes/templates",
+			"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/template_default/templates",
+			"/Users/CyborgCassowary/Sites/pbm_store/includes/templates/pbm",
+			"/Users/CyborgCassowary/Sites/poweredbymoyer/bootstrap/html",
+			"/Users/CyborgCassowary/Sites/poweredbymoyer/bootstrap",
+			"/Users/CyborgCassowary/Sites/shitiwalkedinto",
+			"/Users/CyborgCassowary/Sites/shitiwalkedinto/wp-content/themes/another_shitty_theme",
+			"/Users/CyborgCassowary/Sites/shitiwalkedinto/wp-content/themes/shitiwalkedinto"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"page-header",
+			"nav",
+			"#webform-client-form-284424750",
+			"employee",
+			"active",
+			"nav-pills",
+			"nav",
+			".nav",
+			".table-bordered",
+			".table-condensed",
+			"min-width:",
+			"STARTERKIT",
+			"var",
+			"appendChild(",
+			"totalcosts",
+			"TotalCosts",
+			"totalcosts",
+			"'Manager'",
+			".value = 'Manager'",
+			"ProgID",
+			"progid",
+			"ProgID",
+			"progid",
+			"field-name-field-course-sponser",
+			"//",
+			"field-name-field-employee-3",
+			"Job",
+			"coursedate",
+			"location",
+			"otherexps",
+			"meals",
+			"lodge",
+			"travel",
+			"registration",
+			"reason",
+			"cDescription",
+			"contacthours",
+			"progid",
+			"ahours",
+			"location",
+			"sponsor",
+			"category",
+			"department",
+			"jobtitleHidden",
+			"location",
+			".nav>li>a",
+			".nav-main-link{",
+			":hover",
+			"searchforitem",
+			"html/",
+			"display:block; height:200px;",
+			"allProductsListingTopLinks",
+			"<!-- This is something I'm adding. -->",
+			"categoriesContent",
+			"clearBoth",
+			"navCatTabsWrapper",
+			"<br />",
+			"35px",
+			"productListing-data",
+			"whatsnew",
+			"rel=\"lightbox[gallery]\"",
+			"zen_lightbox",
+			"popupImage",
+			"mainProductImage",
+			"popupWindow",
+			"#navMainWrapper",
+			".form-group",
+			".form-inline",
+			".form-inline{",
+			"form-inline .form-group",
+			"form-inline",
+			"form",
+			"#navMainWrapper",
+			" #navMainWrapper",
+			"max-width:700px;",
+			"max-width:950px;",
+			"max-width: 950px;",
+			"max-width:",
+			"max-width: 950px;",
+			"navMainSearch",
+			"body > #maincontent ",
+			"h1",
+			"#maincontent",
+			"fancybox_",
+			"http://localhost:8888/poweredbymoyer/bootstrap/",
+			"../../../../../",
+			"category-top",
+			"whatsnew",
+			"productListing-heading",
+			"categoryIcon",
+			"navNextPrevList",
+			"clear",
+			"clearfix",
+			"productListing",
+			"tabTable",
+			"<table",
+			"pull-right",
+			"float:right",
+			"col-md-4",
+			"productGeneral",
+			"productName",
+			"productMainImage",
+			"navCatTabsWrapper",
+			"categories",
+			"<!--this was moved from line 63-->",
+			"productsnewBody",
+			"<tr>",
+			"centerBoxContentsNew",
+			"push-",
+			"img-responsive",
+			"col-md-3",
+			"NavMainWrapper",
+			"banner",
+			"../",
+			"navbar",
+			"url(",
+			"td",
+			"../html/",
+			"pull",
+			"<div class=\"container\" id=\"maincontent\"> \n  <div class=\"row\">\n    <div class=\"col-md-9\">",
+			"col-sm-4",
+			"<div id=\"footer\">\n  <div class=\"footer_text\">",
+			"html/",
+			"col-md-4 brands",
+			",",
+			"id=\"brands\"",
+			"<div id=\"brands\">",
+			"<link href=\"../css/moyer.css\" rel=\"stylesheet\" type=\"text/css\" />"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<div class=\"container\" id=\"maincontent\"> \n  <div class=\"row\">\n    <div class=\"col-md-9\" id=\"correctmargin\">",
+			"<div id=\"footer\">\n  <div class=\"container\">",
+			"<link href=\"../css/bootstrap.min.css\" rel=\"stylesheet\" type=\"text/css\" /> <link href=\"../css/moyer.css\" rel=\"stylesheet\" type=\"text/css\" />"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "lasa.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

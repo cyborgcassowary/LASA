@@ -1,0 +1,18 @@
+name = WebForm 2 PDF
+description = Generates PDF documents from the submitted webforms.
+core = 7.x
+package = Webform
+dependencies[] = webform
+dependencies[] = libraries
+
+configure = admin/config/content/webform2pdf
+
+; Files that contain classes:
+files[] = webform2pdf.class.inc
+
+; Information added by Drupal.org packaging script on 2014-03-04
+version = "7.x-3.2"
+core = "7.x"
+project = "webform2pdf"
+datestamp = "1393937624"
+
